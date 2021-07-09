@@ -7,7 +7,7 @@ React project bootstrapped with Create React App including Cypress Component Tes
 ```
 npm install
 ```
-* Run the testes programmatically
+* Run the tests programmatically
 ```
 APPLITOOLS_API_KEY="[Your Key]" npx cypress run-ct
 ```
