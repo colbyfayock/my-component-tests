@@ -1,6 +1,8 @@
-# Cypress Component Test Runner + Applitools Eyes
+# Cypress Component Test Runner & Applitools Eyes
 
-React project bootstrapped with Create React App including Cypress Component Tests and Applitools Eyes.
+Demo for article [Adding Vision to Cypress Component Test Runner with Applitools Eyes](https://applitools.com/blog/adding-vision-cypress-component-test-runner-applitools-eyes/)
+
+📝 Article: https://applitools.com/blog/adding-vision-cypress-component-test-runner-applitools-eyes/
 
 ## Get Started
 * Install dependencies
@@ -15,3 +17,11 @@ APPLITOOLS_API_KEY="[Your Key]" npx cypress run-ct
 ```
 APPLITOOLS_API_KEY="[Your Key]" npx cypress open-ct
 ```
+
+## More tutorials and walkthroughs
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
